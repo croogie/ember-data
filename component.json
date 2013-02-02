@@ -1,0 +1,8 @@
+{
+  "name"        : "ember-data",
+  "version"     : "11",
+  "main"        : ["./ember-data.js", "./ember-data.min.js", "./ember-data.prod.js", "./ember-data-spade.js"],
+  "dependencies": {
+    "ember"     : null
+  }
+}
